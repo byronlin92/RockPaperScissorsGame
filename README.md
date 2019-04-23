@@ -8,7 +8,7 @@ Steps to run:
 		pip install -r requirements.txt
 3.  To execute the game: 
 
-		cd RockPaperScissors
+		cd rockpaperscissors
 		python game.py
 4.  To execute the tests:
 
