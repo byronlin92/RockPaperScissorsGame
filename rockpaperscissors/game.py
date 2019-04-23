@@ -30,7 +30,7 @@ class Game():
                        's': 'p'}
 
     def __init__(self):
-        print("Welcome to Rock Pape Scissors")
+        print("Welcome to Rock Paper Scissors")
 
         name = Game.prompt_player_name()
         player1 = Player(name)
